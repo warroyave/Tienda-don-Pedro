@@ -1,0 +1,197 @@
+wilsonarroyave@192 tienda-don-pedro % git log --oneline
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+:...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+:...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+:...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+:...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+:...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+
+(END)...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+
+(END)...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+
+(END)...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+
+(END)...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+
+(END)...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+
+(END)...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+
+(END)...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+
+(END)...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+
+(END)...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+
+(END)...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+
+(END)...skipping...
+1336b38 (HEAD -> main, origin/main, origin/HEAD) actualizar commit 10
+0eedd6e docs: commit 10: README con descripción, productos y estructura
+ae885a5 feat: commit 9: Se muestra la cantidad y el valor del inventario
+2849178 feat: commit 8: Se agrega script que muestra el inventario
+088376c chore: commit 7:Se agrega .gitignore
+a528ccf commit 6: Se mueven los archivos txt a la carpeta datos
+188dae6 fix: commit 5:Se corrige el precio de la leche
+9f51510 commit 4:Se agrega un registro de ventas
+11dd402 commit 3:Se agrega cliente Don Carlos
+7dfa1e5 Se agrega arroz a los productos
+3c39ddd feat: estructura del proyecto
+(END)
